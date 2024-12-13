@@ -203,8 +203,6 @@ Icon Hosting Google */
     position: absolute;
     z-index: 10;
     background-color: var(--darkBlue);
-    padding: .7rem .7rem;
-    bottom: -180px;
     right: 0px;
 
   }
